@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+March 8, 2017
 
 ### Student Name:  
-(First and Last Name)
+Jackson Auer
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+We learned how to create a cycling photo gallery and implement new functions we have not used before.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://github.com/jacksonauer/lesson6_javascript3
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. We learned how to create a cycling photo gallery.
+2. We learned how to create and use event listeners.
+3. We learned how to create and append nodes.
